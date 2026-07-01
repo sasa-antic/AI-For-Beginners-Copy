@@ -3,11 +3,11 @@ huggingface==0.0.1
 matplotlib
 nltk==3.9.4
 numpy==1.22.0
-opencv-python==4.5.1.48
+opencv-python==4.8.1.78
 Pillow==12.2.0
 scikit-learn
 scipy
 TensorFlow
 TensorFlow_datasets
 TensorFlow_text
-transformers==5.0.0rc3
+transformers==5.3.0
